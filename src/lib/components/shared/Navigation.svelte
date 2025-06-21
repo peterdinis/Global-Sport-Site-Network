@@ -1,5 +1,6 @@
 <script>
 	import { Heart, Tv, Bell, Search } from 'lucide-svelte';
+	import ModeToggle from './ModeToggle.svelte';
 
 	const navItems = [
 		'NFL',
@@ -88,6 +89,7 @@
 					<a href="/my-teams" class="hidden p-2 transition-colors hover:text-red-600 sm:block">
 						<Heart class="h-5 w-5" />
 					</a>
+					<ModeToggle />
 				</div>
 			</div>
 		</div>
