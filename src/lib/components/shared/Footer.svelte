@@ -11,34 +11,34 @@
           <div>
             <h3 class="text-base sm:text-lg font-semibold mb-4">Sports</h3>
             <ul class="space-y-2 text-sm text-gray-400">
-              <li><a href="#" class="hover:text-white transition-colors">NFL</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">NBA</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">MLB</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">NHL</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Soccer</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Tennis</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">NFL</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">NBA</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">MLB</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">NHL</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Soccer</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Tennis</a></li>
             </ul>
           </div>
           
           <div>
             <h3 class="text-base sm:text-lg font-semibold mb-4">More</h3>
             <ul class="space-y-2 text-sm text-gray-400">
-              <li><a href="#" class="hover:text-white transition-colors">Fantasy</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">College Sports</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Olympics</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Podcasts</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Boxing</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">MMA</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Fantasy</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">College Sports</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Olympics</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Podcasts</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Boxing</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">MMA</a></li>
             </ul>
           </div>
           
           <div>
             <h3 class="text-base sm:text-lg font-semibold mb-4">Connect</h3>
             <ul class="space-y-2 text-sm text-gray-400">
-              <li><a href="#" class="hover:text-white transition-colors">Mobile App</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Newsletter</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Social Media</a></li>
-              <li><a href="#" class="hover:text-white transition-colors">Contact Us</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Mobile App</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Newsletter</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Social Media</a></li>
+              <li><a href="/" class="hover:text-white transition-colors">Contact Us</a></li>
               <li><a href="/admin" class="hover:text-red-600 transition-colors font-medium">Admin Panel</a></li>
             </ul>
           </div>
