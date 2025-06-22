@@ -1,51 +1,54 @@
-<footer class="bg-black text-white py-8 sm:py-12">
-      <div class="max-w-7xl mx-auto px-4">
-        <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 sm:gap-8">
-          <div>
-            <div class="text-xl sm:text-2xl font-bold text-red-600 mb-4">GSSN</div>
-            <p class="text-gray-400 text-sm">
-              Your ultimate destination for sports news, scores, and highlights.
-            </p>
-          </div>
-          
-          <div>
-            <h3 class="text-base sm:text-lg font-semibold mb-4">Sports</h3>
-            <ul class="space-y-2 text-sm text-gray-400">
-              <li><a href="/" class="hover:text-white transition-colors">NFL</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">NBA</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">MLB</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">NHL</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Soccer</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Tennis</a></li>
-            </ul>
-          </div>
-          
-          <div>
-            <h3 class="text-base sm:text-lg font-semibold mb-4">More</h3>
-            <ul class="space-y-2 text-sm text-gray-400">
-              <li><a href="/" class="hover:text-white transition-colors">Fantasy</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">College Sports</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Olympics</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Podcasts</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Boxing</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">MMA</a></li>
-            </ul>
-          </div>
-          
-          <div>
-            <h3 class="text-base sm:text-lg font-semibold mb-4">Connect</h3>
-            <ul class="space-y-2 text-sm text-gray-400">
-              <li><a href="/" class="hover:text-white transition-colors">Mobile App</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Newsletter</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Social Media</a></li>
-              <li><a href="/" class="hover:text-white transition-colors">Contact Us</a></li>
-              <li><a href="/admin" class="hover:text-red-600 transition-colors font-medium">Admin Panel</a></li>
-            </ul>
-          </div>
-        </div>
-        
-        <div class="border-t border-gray-800 mt-6 sm:mt-8 pt-6 sm:pt-8 text-center text-gray-400">
-          <p class="text-sm">&copy; 2025 GSSN All rights reserved.</p>
-        </div>
-      </div>
-    </footer>
+<footer class="bg-black py-8 text-white sm:py-12">
+	<div class="mx-auto max-w-7xl px-4">
+		<div class="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 md:grid-cols-4">
+			<div>
+				<div class="mb-4 text-xl font-bold text-red-600 sm:text-2xl">GSSN</div>
+				<p class="text-sm text-gray-400">
+					Your ultimate destination for sports news, scores, and highlights.
+				</p>
+			</div>
+
+			<div>
+				<h3 class="mb-4 text-base font-semibold sm:text-lg">Sports</h3>
+				<ul class="space-y-2 text-sm text-gray-400">
+					<li><a href="/" class="transition-colors hover:text-white">NFL</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">NBA</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">MLB</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">NHL</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Soccer</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Tennis</a></li>
+				</ul>
+			</div>
+
+			<div>
+				<h3 class="mb-4 text-base font-semibold sm:text-lg">More</h3>
+				<ul class="space-y-2 text-sm text-gray-400">
+					<li><a href="/" class="transition-colors hover:text-white">Fantasy</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">College Sports</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Olympics</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Podcasts</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Boxing</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">MMA</a></li>
+				</ul>
+			</div>
+
+			<div>
+				<h3 class="mb-4 text-base font-semibold sm:text-lg">Connect</h3>
+				<ul class="space-y-2 text-sm text-gray-400">
+					<li><a href="/" class="transition-colors hover:text-white">Mobile App</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Newsletter</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Social Media</a></li>
+					<li><a href="/" class="transition-colors hover:text-white">Contact Us</a></li>
+					<li>
+						<a href="/admin" class="font-medium transition-colors hover:text-red-600">Admin Panel</a
+						>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="mt-6 border-t border-gray-800 pt-6 text-center text-gray-400 sm:mt-8 sm:pt-8">
+			<p class="text-sm">&copy; 2025 GSSN All rights reserved.</p>
+		</div>
+	</div>
+</footer>
