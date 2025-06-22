@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { Search, Menu, Bell, X, Heart, User, LogOut, Settings, Tv } from 'lucide-svelte';
+	import AuthModal from '../auth/AuthModal.svelte';
 
 	let isMobileMenuOpen = false;
 	let isAuthModalOpen = false;
@@ -177,7 +178,7 @@
 						class="flex w-full items-center space-x-3 rounded px-4 py-3 text-left hover:bg-gray-800 hover:text-red-600"
 					>
 						<User class="h-5 w-5" />
-						<span>Prihlásiť sa</span>
+						<AuthModal />
 					</button>
 				</div>
 			</div>
